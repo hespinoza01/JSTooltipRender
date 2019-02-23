@@ -4,6 +4,6 @@
  
  ejemplo:
  
- ```
+ ```html
  <div tooltip="hello world">Some content for div container</div>
  ```
